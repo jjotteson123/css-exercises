@@ -2,3 +2,18 @@
     background-color: rgb(217, 80, 123);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 34px;
+}
+
+#four {
+    background-color: rgb(81, 255, 6);
+    font-size: 24px;
+    font-weight: bold;
+}
